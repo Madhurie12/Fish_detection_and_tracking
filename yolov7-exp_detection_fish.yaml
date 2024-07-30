@@ -1,0 +1,5 @@
+train: /home/madhurie/scratch/fishdatasets/combined_train.txt
+val: /home/madhurie/scratch/fishdatasets/combined_val.txt
+test: /home/madhurie/scratch/fishdatasets/combined_test.txt
+nc: 1
+names: ['fish']
