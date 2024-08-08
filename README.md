@@ -1,1 +1,1 @@
-link to the file containing environment setup commands (for tracking and training)- https://dalu.sharepoint.com/:x:/r/teams/FCSWhiddenLabFishDetection/Shared%20Documents/General/Madhurie_data_download_tracker.xlsx?d=w7ad950b876684608b971c7d116b85804&csf=1&web=1&e=Xclrfr
+link to the file containing environment setup commands (for detection and tracking)- https://dalu.sharepoint.com/:x:/r/teams/FCSWhiddenLabFishDetection/Shared%20Documents/General/Madhurie_data_download_tracker.xlsx?d=w7ad950b876684608b971c7d116b85804&csf=1&web=1&e=Xclrfr
